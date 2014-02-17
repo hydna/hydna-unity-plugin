@@ -1,6 +1,6 @@
 ##Quickstart with hydna for Unity##
 
-Our Unity plugin works with Unity free on all platforms.
+Our Unity plugin works with Unity Free as well as Unity Pro on all platforms. Visit https://www.hydna.com/documentation for full spec of our API. This plugin is based on the hydna .NET bindings, see https://github.com/hydna/Hydna.NET for more info.
 
 ###Step by step###
 
