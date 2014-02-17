@@ -4,11 +4,15 @@ Our Unity plugin works with Unity free on all platforms.
 
 ###Step by step###
 
-1. Create a free account at https://www.hydna.com/account/create/ and then create yourself a free hydna domain
+1. Create a free account at https://www.hydna.com/account/create/ and then create yourself a free hydna domain.
 
 2. Place the **Hydna.Net.dll** in your projects plugin folder **Yourprojectname**/Assets/Plugins
 
-3. In your project create an empty gameobject and add the following script to it (where it says "**yourdomain.hydna.net**" replace the domain name with the one you created in step 1):
+3. In your project create an empty gameobject and add a new script to it called **HydnaChat** and choose CSharp as the language.
+
+4. Replace the stub code in your newly created **HydnaChat** script with the below script also found in **HydnaChat.cs**.
+
+5. Finally replace "**yourdomain.hydna.net**" with the domain you created in step 1. 
 
 C# example:
 
