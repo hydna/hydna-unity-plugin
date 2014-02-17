@@ -4,7 +4,7 @@ Our Unity plugin works with Unity free on all platforms.
 
 ###Step by step###
 
-1. Create a free account on https://www.hydna.com/account/create/ and then create yourself a free hydna domain
+1. Create a free account at https://www.hydna.com/account/create/ and then create yourself a free hydna domain
 
 2. Place the **Hydna.Net.dll** in your projects plugin folder **Youprojectname**/Assets/Plugins
 
