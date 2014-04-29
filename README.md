@@ -66,7 +66,7 @@ C# example:
             input_txt = "";
         }
 
-        void Toogle(){
+        void Toggle(){
             if (show) {
                 show = false;
             } else {
@@ -127,14 +127,14 @@ C# example:
 
                 if(GUI.Button (new Rect (padding+margin, padding+margin, submit_height, submit_height), "x")) {
                 
-                    Toogle ();
+                    Toggle ();
                 }
 
             }else{
 
                 if(GUI.Button (new Rect (padding, padding, submit_width, submit_height), "Chat")) {
                 
-                    Toogle ();
+                    Toggle ();
                 }
             }
         }
